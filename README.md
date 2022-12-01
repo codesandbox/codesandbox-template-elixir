@@ -1,21 +1,15 @@
-# MyApp
+# Elixir
 
-**TODO: Add description**
+This is an empty `mix` project called `:my_app` ready for your Elixir code.
 
-## Installation
+[![Edit in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/codesandbox/codesandbox-template-elixir)
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `my_app` to your list of dependencies in `mix.exs`:
+## Implementation
 
-```elixir
-def deps do
-  [
-    {:my_app, "~> 0.1.0"}
-  ]
-end
-```
+CodeSandbox uses [NixOS](https://nixos.org/) to provide support for languages and frameworks not pre-installed in its environments.
+Check out [default.nix](default.nix) to see how you can set up Elixir and Erlang in the environment of an existing repository.
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/my_app>.
+## Resources
 
+- [CodeSandbox Projects — Docs](https://docs.codesandbox.io)
+- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
